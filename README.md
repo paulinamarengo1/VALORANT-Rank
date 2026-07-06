@@ -96,7 +96,6 @@ HenrikDev API ──> Python BFS crawler ──> SQL Server ──> Power BI
 ## Repository structure
 
 ```
-├── collect_data.py           # v1: leaderboard-seeded, single-player-per-match
 ├── collect_data_gold.py      # v2: BFS snowball crawler, configurable seeds
 ├── collect_data_highelo.py   # leaderboard-seeded high elo crawler
 ├── collect_my_matches.py     # paged pull of my own match history
