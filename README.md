@@ -101,7 +101,7 @@ HenrikDev API ──> Python BFS crawler ──> SQL Server ──> Power BI
 ├── collect_data_highelo.py   # leaderboard-seeded high elo crawler
 ├── collect_my_matches.py     # paged pull of my own match history
 ├── backfill_mmr.py           # retries rank lookup for Unknown players
-├── SQLQuery1.sql             # analysis queries
+├── Valorant_Analysis_Queries.sql             # analysis queries
 ├── config.example.py         # API key template (copy to config.py)
 └── README.md
 ```
