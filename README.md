@@ -67,7 +67,7 @@ High elo: 1.06 KD. Low elo: 0.96 KD. Nearly identical. Winners at both tiers pos
 | Avg kills | 11.8 | 14.7 | 16.9 |
 | Avg assists | **7.9** | 5.3 | 5.3 |
 
-My HS% sits exactly where the gradient predicts for Gold. My assists run 50% above both tier averages (Skye main things). The data's verdict: my path to climbing isn't playing more aggressively, it's closing the headshot gap.
+My HS% sits lower than where the gradient predicts for Gold. My assists run 50% above both tier averages (Skye main things). The data's verdict: my path to climbing isn't playing more aggressively, it's closing the headshot gap.
 
 ### What the data can't measure
 
